@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @heyraksha
-- 👀 I’m interested in frontend web developmnet, Machine learning, Python, C++.
-- 🌱 I’m currently learning Machine learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data analysis, Machine learning, Python, C++, etc.
+- 🌱 I’m currently learning NLP
+- 📫 You can connect with me via email- er.rakshapaliwal@gmail.com
 
 <!---
 heyraksha/heyraksha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
